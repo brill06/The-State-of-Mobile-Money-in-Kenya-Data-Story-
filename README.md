@@ -79,7 +79,7 @@ Or host on **GitHub Pages** — push the file and enable Pages under repo Settin
 
 | Source | Link |
 |--------|------|
-| Central Bank of Kenya (CBK) | [centralbank.go.ke/national-payments-system](https://www.centralbank.go.ke/national-payments-system/reports/) |
+| Central Bank of Kenya (CBK) | [centralbank.go.ke/national-payments-system](https://www.centralbank.go.ke/national-payments-system/) |
 | Communications Authority of Kenya | [ca.go.ke/statistics](https://www.ca.go.ke/consumers/statistics) |
 | Safaricom PLC Annual Report 2024 | [safaricom.co.ke/investor-relations](https://www.safaricom.co.ke/investor-relations/reports) |
 | GSMA Mobile Money Programme | [gsma.com/mobilemoney](https://www.gsma.com/solutions-and-impact/connectivity/mobile-money/) |
